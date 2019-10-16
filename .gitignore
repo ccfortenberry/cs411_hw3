@@ -1,0 +1,2 @@
+# Don't need the executable but will keep the batch for windows users
+*.exe
